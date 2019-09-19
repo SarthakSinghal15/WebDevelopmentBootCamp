@@ -1,2 +1,2 @@
-#Web Development Personal Projects
+#Web
 Repository to learn web development through projects.
