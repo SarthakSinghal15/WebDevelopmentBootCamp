@@ -1,0 +1,18 @@
+h1{
+	color: blue;
+	background: rgba(255,0,0);
+	background-color: rgb(255,0,0);
+	border: 15px dashed purple;
+
+}
+
+li{
+	color: green;
+}
+
+h4{
+	color: rgba(68,0,100,.55);
+}
+body{
+	background: pink;
+}
